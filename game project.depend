@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1393466900 source:g:\game\game project\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1393469614 source:g:\game\game project\intro.cpp
+	<graphics.h>
+	<iostream>
+
+1393441357 source:g:\game\game project\main_menu.cpp
+	<graphics.h>
+	<iostream>
+
+1393468439 source:g:\game\game project\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1390101959 source:g:\game\game project\exit.cpp
+	<graphics.h>
+	<iostream>
+
+1390101960 source:g:\game\game project\game.cpp
+	<iostream>
+	<graphics.h>
+
+1393469614 source:g:\game\game project\game_play.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+
+1393468777 source:g:\game\game project\level_selection.cpp
+	<graphics.h>
+
+1393467062 source:g:\game\game project\story_mode.cpp
+	<iostream>
+	<graphics.h>
+
+1393468439 source:g:\game\game\game project\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1390101959 source:g:\game\game\game project\exit.cpp
+	<graphics.h>
+	<iostream>
+
+1390101960 source:g:\game\game\game project\game.cpp
+	<iostream>
+	<graphics.h>
+
+1393601102 source:g:\game\game\game project\game_play.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1393469614 source:g:\game\game\game project\intro.cpp
+	<graphics.h>
+	<iostream>
+
+1393601672 source:g:\game\game\game project\level_selection.cpp
+	<graphics.h>
+
+1393772614 source:g:\game\game\game project\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1393485678 source:g:\game\game\game project\main_menu.cpp
+	<graphics.h>
+	<iostream>
+
+1393467062 source:g:\game\game\game project\story_mode.cpp
+	<iostream>
+	<graphics.h>
+
+1393601050 source:g:\game\game\game project\high_score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1393596300 source:g:\game\game\game project\story_mode_play.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1393601260 source:g:\game\game\game project\level_1.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1393601534 source:g:\game\game\game project\level_2.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1393601661 source:g:\game\game\game project\level_3.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1394946087 source:g:\game\game\game project (basic)\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1393935483 source:g:\game\game\game project (basic)\exit.cpp
+	<graphics.h>
+	<iostream>
+
+1390101960 source:g:\game\game\game project (basic)\game.cpp
+	<iostream>
+	<graphics.h>
+
+1394950539 source:g:\game\game\game project (basic)\game_play.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1394909236 source:g:\game\game\game project (basic)\level_1.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1395059032 source:g:\game\game\game project (basic)\level_2.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1394950568 source:g:\game\game\game project (basic)\level_3.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1394912318 source:g:\game\game\game project (basic)\level_selection.cpp
+	<graphics.h>
+
+1394924755 source:g:\game\game\game project (basic)\main_menu.cpp
+	<graphics.h>
+	<iostream>
+
+1394901786 source:g:\game\game\game project (basic)\high_score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1394945413 source:g:\game\game\game project (basic)\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1394859439 source:g:\game\game\game project (basic)\intro.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1394945953 source:g:\game\game\game project (basic)\options.cpp
+	<graphics.h>
+	<iostream>
+
+1395060028 source:g:\game\game\game project (basic)\game project.rc
+
+1394946088 source:f:\game project (basic)\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1393935484 source:f:\game project (basic)\exit.cpp
+	<graphics.h>
+	<iostream>
+
+1395060030 source:f:\game project (basic)\game project.rc
+
+1390101962 source:f:\game project (basic)\game.cpp
+	<iostream>
+	<graphics.h>
+
+1411890784 source:f:\game project (basic)\game_play.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1410963923 source:f:\game project (basic)\high_score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1410947756 source:f:\game project (basic)\intro.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1410965284 source:f:\game project (basic)\level_1.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1410965406 source:f:\game project (basic)\level_2.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1410963680 source:f:\game project (basic)\level_3.cpp
+	<graphics.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+	<fstream>
+
+1394912320 source:f:\game project (basic)\level_selection.cpp
+	<graphics.h>
+
+1410965251 source:f:\game project (basic)\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1394924756 source:f:\game project (basic)\main_menu.cpp
+	<graphics.h>
+	<iostream>
+
+1394945954 source:f:\game project (basic)\options.cpp
+	<graphics.h>
+	<iostream>
+
